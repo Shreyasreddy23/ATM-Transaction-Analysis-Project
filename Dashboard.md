@@ -1,12 +1,5 @@
 # ATM-Transaction-Analysis-Project
 
-
-## 📌 Project Overview
-This Power BI dashboard provides a **comprehensive analysis of ATM transactions, costs, and revenues across different regions**.  
-It enables stakeholders to monitor **operational performance, cost distribution, transaction patterns, and profitability** for better decision-making.  
-
----
-
 ## 📊 Dashboard Overview
 ### 🖼 Dashboard Image
 *(<img width="1327" height="743" alt="Overtime" src="https://github.com/user-attachments/assets/6d71c91b-1b79-4865-ad18-a96d9644bf37" />)*
